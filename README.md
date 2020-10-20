@@ -17,9 +17,9 @@ After `cd scripts`, run `python make_splits.py` to generate the train-dev splits
 
 To set up the evaluator, `cd eval`, and then run `npm install file:sql-parser` and `npm install express`.
 
-## Model Training and Testing
+To set up the python dependencies, run `pip install -r requirements.txt`.
 
-Firstly, run `python setup.py` to install the necessary dependencies. 
+## Model Training and Testing
 
 Make sure the evaluator service is running before performing any model training or testing. To do so, `cd eval` and run `node evaluator.js`. This will spawn a local service (default port 3000) that allows communication with the python model code to convert the (slightly) underspecified SQL queries into SQL queries fully-executable on our pre-processed databases.
 
