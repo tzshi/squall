@@ -10,7 +10,7 @@
 
 Our code has MIT license. The evalutor contains modified code of [mistic-sql-parser](https://github.com/mistic100/sql-parser) by Damien "Mistic" Sorel and Andrew Kent.
 
-Th Squall dataset has CC BY-SA 4.0 license and is build upon [WikiTableQuestions] (https://github.com/ppasupat/WikiTableQuestions) by Panupong Pasupat and Percy Liang.
+Th Squall dataset has CC BY-SA 4.0 license and is build upon [WikiTableQuestions](https://github.com/ppasupat/WikiTableQuestions) by Panupong Pasupat and Percy Liang.
 
 ## Requirements
 
