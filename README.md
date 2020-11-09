@@ -1,4 +1,4 @@
-# Data and Code Release for "On the Potential of Lexico-logical Alignments for Semantic Parsing to SQL Queries"
+# Data and Code Release for "[On the Potential of Lexico-logical Alignments for Semantic Parsing to SQL Queries](https://arxiv.org/abs/2010.11246)"
 
 ## What are included
 
